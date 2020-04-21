@@ -9,9 +9,6 @@
     "mocha": "*"
   },
   "scripts": {
-    "test": "jshint assignment.js"
-    /*"test": "mocha test/question1a.js",
-    "test": "mocha test/question1b.js",
-    "test": "mocha --exit"*/
+    "test": "jshint assignment.js" 
   }
 }
