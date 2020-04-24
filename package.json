@@ -9,6 +9,7 @@
     "mocha": "*"
   },
   "scripts": {
-    "test": "jshint assignment.js" 
+    "test": "jshint assignment.js",    
+    "test": "mocha --exit"
   }
 }
