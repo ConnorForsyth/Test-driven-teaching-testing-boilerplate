@@ -1,6 +1,6 @@
 'use strict';
 var expect = require('chai').expect;
-const HelloJS = require('../hello.js');
+const HelloJS = require('../assignment.js');
 const testingEnabled = HelloJS.question1aTest;
 var celebNames = HelloJS.testQuestion1A;
 if(testingEnabled === true)
